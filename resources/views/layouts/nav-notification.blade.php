@@ -1,0 +1,1 @@
+<order-notification user_id={{auth()->user()->id}}></order-notification>
